@@ -3,7 +3,7 @@
 #### 1. Executive Summary
 The Feather Platform is a decentralised, on-chain social curation tool. It is built on the open-source Feather Protocol on Kusama Asset Hub and enables users to publish, curate, and network around short-form ideas, art, and inspirations called **Feathers**. Inspired by Are.na’s minimalist exploration of interconnected blocks and channels, Feather transforms raw user submissions (via Kusama’s `system.remarkWithEvent`) into evolving, community-curated **Zines** - themed collections (Decent / FTTF etc) that function as lightweight Kreivo DAOs with optional membership. The MVP focuses on core loops: **post**, **curate**, and **network**.
 
-This is a permissionless, experimental platform amplifying Kusama’s chaotic creativity - no gatekeepers, just emergent culture. The MVP will be a web app with a clean, text-first UI (SvelteKit frontend), integrating the Feather Index for querying on-chain data. Target users: Kusama builders, artists, and memers seeking a lightweight alternative to bloated social media.
+This is a permissionless, experimental platform amplifying Kusama’s chaotic creativity - no gatekeepers, just emergent culture. The MVP will be a web app with a clean, text-first UI (SvelteKit frontend), integrating the [Feather Indexer](https://github.com/Decent-Partners/Feather-Protocol) for querying on-chain data. Target users: Kusama builders, artists, and memers seeking a lightweight alternative to bloated social media.
 
 **MVP Scope**: Elegant, clean, single-page app with [Virto Connect](https://demo.virto.dev/) wallet login, posting form, Zine curation dashboard, and basic feeds. No advanced ZKPs, DAO governance, or validator media rendering in MVP - focus on core protocol integration. 
 
