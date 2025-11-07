@@ -1,4 +1,4 @@
-### Feather Platform MVP Product Outline (British English)
+### Feather Platform MVP Product Outline 
 
 #### 1. Executive Summary
 The Feather Platform is a decentralised, on-chain social curation tool. It is built on the open-source Feather Protocol on Kusama Asset Hub and enables users to publish, curate, and network around short-form ideas, art, and inspirations called **Feathers**. Inspired by Are.na’s minimalist exploration of interconnected blocks and channels, Feather transforms raw user submissions (via Kusama’s `system.remarkWithEvent`) into evolving, community-curated **Zines** - themed collections (Decent / FTTF etc) that function as lightweight Kreivo DAOs with optional membership. The MVP focuses on core loops: **post**, **curate**, and **network**.
