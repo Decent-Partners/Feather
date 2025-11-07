@@ -5,7 +5,7 @@ The Feather Platform is a decentralised, on-chain social curation tool. It is bu
 
 This is a permissionless, experimental platform amplifying Kusama’s chaotic creativity - no gatekeepers, just emergent culture. The MVP will be a web app with a clean, text-first UI (SvelteKit frontend), integrating the Feather Index for querying on-chain data. Target users: Kusama builders, artists, and memers seeking a lightweight alternative to bloated social media.
 
-**MVP Scope**: Elegant, clean, single-page app with Virto Connect wallet login, posting form, Zine curation dashboard, and basic feeds. No advanced ZKPs, DAO governance, or validator media rendering in MVP - focus on core protocol integration. 
+**MVP Scope**: Elegant, clean, single-page app with [Virto Connect](https://demo.virto.dev/) wallet login, posting form, Zine curation dashboard, and basic feeds. No advanced ZKPs, DAO governance, or validator media rendering in MVP - focus on core protocol integration. 
 
 #### 2. Inspiration and High-Level Vision
 - **Are.na Explorer Influence**: Are.na’s “Explore” is a serene, grid-based discovery hub where users browse interconnected “blocks” (text, images, links) organised into “channels” (themed collections). UX is deliberately simple: infinite scroll grids, hover previews, and subtle connections via embeds/links. No algorithms, just human-curated serendipity. Feather mirrors this with on-chain Feathers as atomic blocks, Zines as public channels, and a text-minimalist design (monospace fonts, subtle animations, dark/light modes).
